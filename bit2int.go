@@ -22,7 +22,3 @@ func BToI(b int) int {
 
 	return val
 }
-
-func a(){
-	fmt.Println("test travis ci");
-}
